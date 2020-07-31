@@ -1,4 +1,4 @@
-from python_algo.palindrome import check
+from palindrome.palindrome import check
 
 def test_false_case():
     assert check('race a car') == False
